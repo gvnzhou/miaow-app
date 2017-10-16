@@ -17,7 +17,7 @@ export default class MiaowApp extends Component {
     return (
       <View style={styles.container}>
         <Text style={styles.welcome}>
-          Welcome to React Native!
+          Welcome to 你好!
         </Text>
         <Text style={styles.instructions}>
           To get started, edit index.ios.js
